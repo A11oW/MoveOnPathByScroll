@@ -1,4 +1,4 @@
 MoveOnPathByScroll
 ==================
 
-Moving an object on the way when you scroll
+Movement along the path depending on the scroll
